@@ -71,7 +71,7 @@
 
 <table width="60%" align="center">
   <tr>
-    <td align="center" width="50%"><img src="[ngocngan.jpg](https://github.com/Phamngocngan527/tonghop.github.io/issues/1#issue-2697200082)" width="50%" height="50%" alt="Ảnh cá nhân"></td>
+    <td align="center" width="50%"><img src="https://github.com/Phamngocngan527/tonghop.github.io/issues/2#issue-2697268524" width="50%" height="50%" alt="Ảnh cá nhân"></td>
     <td width="50%"></td>
   </tr>
   <tr>
