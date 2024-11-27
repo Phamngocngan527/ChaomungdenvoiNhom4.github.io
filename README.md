@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+5555<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -71,8 +71,7 @@
 
 <table width="60%" align="center">
   <tr>
-    <td align="center" width="50%"><img src="https://github.com/Phamngocngan527/tonghop.github.io/issues/2#issue-2697268524" width="50%" height="50%" alt="Ảnh cá nhân"></td>
-    <td width="50%"></td>
+   <img src="ngocngan.jpg">
   </tr>
   <tr>
     <td colspan="2">
