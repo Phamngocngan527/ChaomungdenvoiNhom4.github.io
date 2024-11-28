@@ -74,7 +74,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="17fc8f901ec1a49ffdd0.jpg">
+   <img src="0379da155b44e11ab855.jpg">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Ngọc Ngân</h2>
       <ul>
