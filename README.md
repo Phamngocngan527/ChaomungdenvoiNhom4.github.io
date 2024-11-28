@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!DOCTYPE html>
-<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <title>Bảng điểm của nhóm 4</title>
