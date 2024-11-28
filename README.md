@@ -71,7 +71,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="0379da155b44e11ab855.jpg>
+   <img src="0379da155b44e11ab855.jpg"
   </tr>
   <tr>
     <td colspan="2">
@@ -101,7 +101,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="ngocngan.jpg">
+   <img src="17fc8f901ec1a49ffdd0.jpg">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Mỹ Nhàn</h2>
       <ul>
@@ -132,7 +132,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="ngocngan.jpg">
+   <img src="0933768febde518008cf.jpg">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử ThanhHieu</h2>
       <ul>
@@ -154,7 +154,7 @@ Xin chào mọi người! Mình tên là Nguyễn Thành Hiếu. Em sinh ra và 
 
 <table width="60%" align="center">
   <tr>
-   <img src="ngocngan.jpg">
+   <img src="060bfb4bf41b4e45170a.jpg">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Kim Nguyên</h2>
       <ul>
