@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -27,7 +26,6 @@
       font-size: large;
     }
   </style>
-</head>
 <body>
 
 <h1>CHÀO MỪNG MỌI NGƯỜI ĐẾN VỚI NHÓM 4</h1>
