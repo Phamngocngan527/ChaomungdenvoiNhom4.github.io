@@ -129,9 +129,9 @@
   <hr>
   
  
-    <title>Donate Mỹ Nhàn</title>
+  <title>Donate Mỹ Nhàn</title>
     
-    <table border="1" cellpadding="10" cellspacing="0" style="width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <table border="1" cellpadding="10" cellspacing="0" style="width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse; font-family: Arial, sans-serif;">
     <thead>
         <tr>
             <th colspan="2" style="text-align: center; background-color: #f2f2f2; padding: 15px; font-size: 20px;">Donate cho Mỹ Nhàn</th>
