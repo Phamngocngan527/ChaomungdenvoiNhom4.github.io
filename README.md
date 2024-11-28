@@ -151,10 +151,6 @@
             <td><input type="number" name="amount" placeholder="Nhập số tiền" min="1000" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" required></td>
         </tr>
         <tr>
-            <td style="font-weight: bold;">Lời nhắn:</td>
-            <td><textarea name="message" placeholder="Gửi lời nhắn cho Mỹ Nhàn" rows="4" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea></td>
-        </tr>
-        <tr>
             <td colspan="2" style="text-align: center;">
                 <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Donate ngay</button>
             </td>
