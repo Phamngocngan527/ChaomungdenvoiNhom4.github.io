@@ -5,7 +5,7 @@
   <table width="60%" align="center">
   <tr>
    <img src="Yellow and Red Retro Meet Our Team Presentation.jpg"
-  </tr>
+     
   <title>Bảng điểm của nhóm 4</title>
   <style>
     table {
@@ -20,7 +20,6 @@
     th {
       background-color: #f2f2f2;
     }
-    /* Định dạng chữ trong phần giới thiệu */
     p {
       font-size: large;
     }
@@ -75,9 +74,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="0379da155b44e11ab855.jpg"
-  </tr>
-  <tr>
+   <img src="0379da155b44e11ab855.jpg">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Ngọc Ngân</h2>
       <ul>
@@ -86,8 +83,6 @@
         <li>Quê quán: Bình Đại, Bến Tre</li>
         <li>Cung hoàng đạo: Bảo Bình</li>
         <li>Học tại: Trường THPT Chuyên Bến Tre</li>
-      </ul>
-      <ul>
         <li>Sở thích: uống trà sữa có trân châu, củ năng, bánh plan</li>
         <li>Ước mơ: có một cuộc sống bình yên</li>
       </ul>
