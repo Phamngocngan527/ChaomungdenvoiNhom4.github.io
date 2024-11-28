@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<html lang="en">
+<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -110,8 +112,6 @@
         <li>Quê quán: Tp.Bến Tre, Bến Tre</li>
         <li>Cung hoàng đạo: Song Tử</li>
         <li>Học tại: Trường THPT Chuyên Bến Tre</li>
-      </ul>
-      <ul>
         <li>Sở thích: Tiêu tiền</li>
         <li>Ước mơ: Mua nhà trên Đà Lạt</li>
        </ul>
@@ -127,6 +127,41 @@
   <tr>
 
   <hr>
+  
+ 
+    <title>Donate Mỹ Nhàn</title>
+    
+    <table border="1" cellpadding="10" cellspacing="0" style="width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse; font-family: Arial, sans-serif;">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center; background-color: #f2f2f2; padding: 15px; font-size: 20px;">Donate cho Mỹ Nhàn</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="width: 30%; font-weight: bold;">Họ và Tên:</td>
+            <td><input type="text" name="name" placeholder="Nhập tên của bạn" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" required></td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Email:</td>
+            <td><input type="email" name="email" placeholder="Nhập email của bạn" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" required></td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Số tiền (VNĐ):</td>
+            <td><input type="number" name="amount" placeholder="Nhập số tiền" min="1000" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" required></td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Lời nhắn:</td>
+            <td><textarea name="message" placeholder="Gửi lời nhắn cho Mỹ Nhàn" rows="4" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center;">
+                <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Donate ngay</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 <table width="60%" align="center">
   <tr>
@@ -189,6 +224,9 @@ Xin chào mọi người! Mình tên là Nguyễn Thành Hiếu. Em sinh ra và 
     </td>
   </tr>
 </table>
+
+</body>
+</html>
 
 </body>
 </html>
