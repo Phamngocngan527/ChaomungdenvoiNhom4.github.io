@@ -118,6 +118,42 @@
     </td>
   </tr>
   <tr>
+    
+  <hr>
+
+<table width="60%" align="center">
+  <tr>
+   <img src="ngocngan.jpg">
+    <td colspan="2">
+      <h2>Tóm tắt tiểu sử ThanhHieu</h2>
+      <ul>
+        </li>Họ tên: Nguyễn Thành Hiếu
+        </li>Ngày sinh: 24/03/2007
+        </li>Quê quán: Thành phố Bến Tre, tỉnh Bến Tre
+        <li>Cung hoàng đạo: Bạch Dương
+        </li>Học tại: THPT Chuyên Bến Tre
+        </li>Sở thích: đánh cầu lông
+           </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h2>Giới thiệu bản thân</h2>
+Xin chào mọi người! Mình tên là Nguyễn Thành Hiếu. Em sinh ra và lớn lên tại thành phố Bến Tre. Hiện nay, em là học sinh trường THPT Chuyên Bến Tre. Em là học sinh của 12 Lý. Gia đình em có một em trai. Ba và mẹ làm kinh doanh. Em rất tích cực trong việc tham gia các hoạt động ngoại khóa của trường. Nếu có gì cần liên hệ mượn tiền, hãy lên lớp 12L tìm mình nha!  
+
+        <li>Họ tên: Ngô Mỹ Nhàn</li>
+        <li>Ngày sinh: 11/06/2007</li>
+        <li>Quê quán: Tp.Bến Tre, Bến Tre</li>
+        <li>Cung hoàng đạo: Song Tử</li>
+        <li>Học tại: Trường THPT Chuyên Bến Tre</li>
+      </ul>
+      <ul>
+        <li>Sở thích: Tiêu tiền</li>
+        <li>Ước mơ: Mua nhà trên Đà Lạt</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
       <h2>Giới thiệu bản thân</h2>
       <p align="justify">Chào các bạn của bảnh nha. Bảnh là Nhàn nè. Bảnh ở Bến Tre đang học lớp 12 Lý tại CBT. Bảnh thích đi ngủ lắm với bảnh thích ăn bún đậu mắm tôm thích đi du lịch nữa. Dạo gần đây điện thoại bảnh bị hư mà không có tiền mua mới ai có lòng có thể donate qua 0918167809 BIDV nha. Cảm ơn mọi người!</p>
