@@ -71,7 +71,7 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="ngocngan.jpg">
+   <img src="ngocngan.png">
   </tr>
   <tr>
     <td colspan="2">
