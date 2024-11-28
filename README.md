@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <table width="60%" align="center">
+  <tr>
+   <img src="0379da155b44e11ab855.jpg"
+  </tr>
   <title>Bảng điểm của nhóm 4</title>
   <style>
     table {
