@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <table width="60%" align="center">
   <tr>
-   <img src="0379da155b44e11ab855.jpg"
+   <img src="Yellow and Red Retro Meet Our Team Presentation.jpg"
   </tr>
   <title>Bảng điểm của nhóm 4</title>
   <style>
