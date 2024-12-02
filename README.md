@@ -72,8 +72,7 @@
 <table width="60%" align="center">
   <tr>
    <img src="0379da155b44e11ab855.jpg">
-    <video width="320" height="240" controls>
- <source src="6060954511816.mp4" type="video/mp4">
+     <source src="6060954511816.mp4" type="video/mp4">
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Ngọc Ngân</h2>
       <ul>
