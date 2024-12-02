@@ -71,8 +71,22 @@
 
 <table width="60%" align="center">
   <tr>
-   <img src="0379da155b44e11ab855.jpg">
-     <source src="6060954511816.mp4" type="video/mp4">
+    <td colspan="2" align="center">
+      <img src="0379da155b44e11ab855.jpg" alt="Image" width="100%">
+    </td>
+  </tr>
+
+    <tr>
+    <td colspan="2" align="center">
+      <video width="100%" controls>
+        <source src="6060954511816.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+
+  <!-- Tiểu sử -->
+  <tr>
     <td colspan="2">
       <h2>Tóm tắt tiểu sử Ngọc Ngân</h2>
       <ul>
@@ -84,6 +98,9 @@
         <li>Sở thích: uống trà sữa có trân châu, củ năng, bánh plan</li>
         <li>Ước mơ: có một cuộc sống bình yên</li>
       </ul>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
   <tr>
@@ -219,5 +236,3 @@ Xin chào mọi người! Mình tên là Nguyễn Thành Hiếu. Em sinh ra và 
 </body>
 </html>
 
-</body>
-</html>
